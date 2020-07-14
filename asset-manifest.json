@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Weather/static/css/main.249a9657.chunk.css",
+    "main.js": "/Weather/static/js/main.3b9f9dc0.chunk.js",
+    "main.js.map": "/Weather/static/js/main.3b9f9dc0.chunk.js.map",
+    "runtime-main.js": "/Weather/static/js/runtime-main.22be1482.js",
+    "runtime-main.js.map": "/Weather/static/js/runtime-main.22be1482.js.map",
+    "static/js/2.04f7c404.chunk.js": "/Weather/static/js/2.04f7c404.chunk.js",
+    "static/js/2.04f7c404.chunk.js.map": "/Weather/static/js/2.04f7c404.chunk.js.map",
+    "index.html": "/Weather/index.html",
+    "precache-manifest.9fc33f522eb3639a9b6fce7039f217e3.js": "/Weather/precache-manifest.9fc33f522eb3639a9b6fce7039f217e3.js",
+    "service-worker.js": "/Weather/service-worker.js",
+    "static/css/main.249a9657.chunk.css.map": "/Weather/static/css/main.249a9657.chunk.css.map",
+    "static/js/2.04f7c404.chunk.js.LICENSE.txt": "/Weather/static/js/2.04f7c404.chunk.js.LICENSE.txt",
+    "static/media/wi-cloudy.svg": "/Weather/static/media/wi-cloudy.2d0410c5.svg",
+    "static/media/wi-day-sunny.svg": "/Weather/static/media/wi-day-sunny.4b9869a6.svg",
+    "static/media/wi-humidity.svg": "/Weather/static/media/wi-humidity.ace478e8.svg",
+    "static/media/wi-rain.svg": "/Weather/static/media/wi-rain.e13be320.svg",
+    "static/media/wi-strong-wind.svg": "/Weather/static/media/wi-strong-wind.b9d8d3cf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22be1482.js",
+    "static/js/2.04f7c404.chunk.js",
+    "static/css/main.249a9657.chunk.css",
+    "static/js/main.3b9f9dc0.chunk.js"
+  ]
+}
