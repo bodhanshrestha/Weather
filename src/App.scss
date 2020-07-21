@@ -121,8 +121,11 @@
   .app main .search-box .search-bar {
     font-size: 1em !important;
   }
+  .app main .location-box .location {
+    font-size: 4em;
+  }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 513px) {
   .app main h1 {
     font-size: 1.3em;
     margin: 5px !important;
